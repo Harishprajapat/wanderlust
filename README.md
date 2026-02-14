@@ -36,7 +36,7 @@ This project demonstrates real-world web development concepts including:
 
 ## 📸 Screenshots
 
-_Add screenshots inside a `screenshots` folder_
+
 <img width="1920" height="1080" alt="Screenshot (335)" src="https://github.com/user-attachments/assets/fcaee820-6c04-4f7a-a419-0686bd03f7d6" />
 
 
