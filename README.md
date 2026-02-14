@@ -123,3 +123,78 @@ Follow these steps to run the project locally:
 git clone https://github.com/your-username/wanderlust-airbnb-clone.git
 cd wanderlust-airbnb-clone
 
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Configure Environment Variables
+
+Create a .env file in the root directory:
+
+PORT=3000
+MONGODB_URI=your_mongodb_connection_string
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_KEY=your_key
+CLOUDINARY_SECRET=your_secret
+SESSION_SECRET=your_secret_key
+
+4️⃣ Run the Application
+npm start
+Open your browser and visit:
+
+👉 http://localhost:3000
+
+📂 Project Structure
+wanderlust/
+│
+├── models/        # Database schemas
+├── routes/        # Express routes
+├── controllers/   # Business logic
+├── middleware/    # Custom middleware
+├── views/         # EJS templates
+├── public/        # Static assets
+│
+├── app.js         # Entry point
+└── package.json
+```
+## 🎯 Learning Outcomes
+
+This project helped me gain hands-on experience with:
+
+- Full-Stack Application Development  
+- RESTful API Design  
+- Authentication & Authorization  
+- Database Modeling with MongoDB  
+- MVC Architecture  
+- File Upload & Cloud Storage  
+- Responsive UI Development  
+- Deployment Workflow  
+
+## 🔮 Future Improvements
+
+- 💳 Payment Integration  
+- ❤️ Wishlist / Favorites  
+- 📅 Booking System  
+- ⭐ Reviews & Ratings  
+- 🔎 Advanced Search Filters  
+- 🌍 Map-based Search  
+
+---
+
+## 👨‍💻 Author
+
+**Harish Prajapat**  
+Aspiring Full-Stack Developer  
+
+📧 Connect with me on LinkedIn  
+www.linkedin.com/in/harish-prajapat
+
+## ⭐ Support
+
+If you found this project helpful, please give it a ⭐ — it motivates me to build more!
+
+---
+
+<p align="center">
+  Made with ❤️ by Harish Prajapat
+</p>
+
